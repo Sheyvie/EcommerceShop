@@ -1,0 +1,17 @@
+C:\Users\USER\Documents\JituTraining\projects\C# Exercises\Ecommerce\Ecommerce\Ecommerce\bin\Debug\net6.0\Ecommerce.exe
+C:\Users\USER\Documents\JituTraining\projects\C# Exercises\Ecommerce\Ecommerce\Ecommerce\bin\Debug\net6.0\Ecommerce.deps.json
+C:\Users\USER\Documents\JituTraining\projects\C# Exercises\Ecommerce\Ecommerce\Ecommerce\bin\Debug\net6.0\Ecommerce.runtimeconfig.json
+C:\Users\USER\Documents\JituTraining\projects\C# Exercises\Ecommerce\Ecommerce\Ecommerce\bin\Debug\net6.0\Ecommerce.dll
+C:\Users\USER\Documents\JituTraining\projects\C# Exercises\Ecommerce\Ecommerce\Ecommerce\bin\Debug\net6.0\Ecommerce.pdb
+C:\Users\USER\Documents\JituTraining\projects\C# Exercises\Ecommerce\Ecommerce\Ecommerce\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\USER\Documents\JituTraining\projects\C# Exercises\Ecommerce\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\JituTraining\projects\C# Exercises\Ecommerce\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\JituTraining\projects\C# Exercises\Ecommerce\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\JituTraining\projects\C# Exercises\Ecommerce\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.AssemblyInfo.cs
+C:\Users\USER\Documents\JituTraining\projects\C# Exercises\Ecommerce\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\JituTraining\projects\C# Exercises\Ecommerce\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.CopyComplete
+C:\Users\USER\Documents\JituTraining\projects\C# Exercises\Ecommerce\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.dll
+C:\Users\USER\Documents\JituTraining\projects\C# Exercises\Ecommerce\Ecommerce\Ecommerce\obj\Debug\net6.0\refint\Ecommerce.dll
+C:\Users\USER\Documents\JituTraining\projects\C# Exercises\Ecommerce\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.pdb
+C:\Users\USER\Documents\JituTraining\projects\C# Exercises\Ecommerce\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.genruntimeconfig.cache
+C:\Users\USER\Documents\JituTraining\projects\C# Exercises\Ecommerce\Ecommerce\Ecommerce\obj\Debug\net6.0\ref\Ecommerce.dll

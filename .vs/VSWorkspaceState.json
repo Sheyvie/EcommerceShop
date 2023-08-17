@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Ecommerce",
+    "\\Ecommerce\\Ecommerce",
+    "\\Ecommerce\\Ecommerce\\Controller",
+    "\\Ecommerce\\Ecommerce\\Data",
+    "\\Ecommerce\\Ecommerce\\Services",
+    "\\Ecommerce\\Ecommerce\\Services\\Iservices"
+  ],
+  "SelectedNode": "\\Ecommerce\\Ecommerce\\Ecommerce.csproj",
+  "PreviewInSolutionExplorer": false
+}
